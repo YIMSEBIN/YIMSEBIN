@@ -1,4 +1,4 @@
-### Hi there 👋
+### 주니어 개발자 임세빈입니다 👋
 
 <!--
 **YIMSEBIN/YIMSEBIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
