@@ -1,4 +1,4 @@
-### 주니어 개발자 임세빈입니다 👋
+
 
 <!--
 **YIMSEBIN/YIMSEBIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
+# I'm YIMSEBIN
+### 기술 스택
 
+### 🌱 프로젝트
+
+### ✨ 자격증 & 수상 기록
+자격증
+상
+
+### 📫 연락처
+
+<div align=right>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 </div>
