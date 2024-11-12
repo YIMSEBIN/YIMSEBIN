@@ -1,5 +1,4 @@
 
-
 <!--
 **YIMSEBIN/YIMSEBIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm YIMSEBIN
+
+# 임세빈
 ### 기술 스택
+리액트, 타입스크립트
+html, css, javascript, php
+Flutter
+Dart
+진짜 기초만 할줄아는걸 써 말아?
 
 ### 🌱 프로젝트
 
