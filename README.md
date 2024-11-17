@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 
 # 임세빈
 ### 기술 스택
-리액트, 타입스크립트
-html, css, javascript, php
-Flutter
-Dart
-진짜 기초만 할줄아는걸 써 말아?
+Main : React, Typescript, html, css, javascript
+Sub : php, Flutter, Dart
+Tool : Notion, Git, Github, slack, Figma
 
 ### 🌱 프로젝트
 
 ### ✨ 자격증 & 수상 기록
-자격증
-상
 
 ### 📫 연락처
 
