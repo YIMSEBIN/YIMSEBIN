@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 # 임세빈
 ### 기술 스택
 Main : React, Typescript, html, css, javascript
+<br>
 Sub : php, Flutter, Dart
+<br>
 Tool : Notion, Git, Github, slack, Figma
 
 ### 🌱 프로젝트
