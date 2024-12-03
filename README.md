@@ -1,18 +1,25 @@
 
 
-# 임세빈
-### 기술 스택
-Main : React, Typescript, html, css, javascript
+끊임없이 성장하는 주니어 프론트엔드 개발자 **임세빈**입니다.
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,typescript,html,css,javascript,flutter,firebase,python" />
+
 <br>
-Sub : php, Flutter, Dart
+
+### 🌱 프로젝트 & 수상 기록
+
+### ✨ 격증자
+- 토익 880
+
 <br>
-Tool : Notion, Git, Github, slack, Figma
 
-### 🌱 프로젝트
-
-### ✨ 자격증 & 수상 기록
-
-### 📫 연락처
+📧 sebinyim.seven@gmail.com
+<br>
+📞 010-5026-8825
+<br>
+⭐ @thrreebeans517
 
 <div align=right>
   
